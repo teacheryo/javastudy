@@ -1,4 +1,3 @@
 # javastudy
-java study directory
-==
+java study directory test
 hello
